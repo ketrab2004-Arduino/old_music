@@ -1,3 +1,5 @@
+#include <Arduino.h>
+#include <stdint.h>
 
 void playMusic(
     String notes,

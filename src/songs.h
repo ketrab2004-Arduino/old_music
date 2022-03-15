@@ -1,3 +1,5 @@
+#include <Arduino.h>
+
 #define CHOSEN_SONG 3
 // 2 Vader Jacob
 // 3 Papegaaitje leef je nog
