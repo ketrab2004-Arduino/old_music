@@ -2,7 +2,7 @@
 #include <Noting.h>
 #include <stdint.h>
 
-#define USE_IMAGERY 1
+#define USE_IMAGERY 0
 
 #if USE_IMAGERY
 #include <SPI.h>
